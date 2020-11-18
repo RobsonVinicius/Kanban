@@ -11,6 +11,7 @@
 ### 📰 Posts
 
 + [O que é kanban e como ele pode ajudar na organização do trabalho](https://blog.runrun.it/o-que-e-kanban/)
++ [Método Kanban: um guia (quase) completo](https://targetteal.com/pt/blog/metodo-kanban/)
 
 <br>
 
