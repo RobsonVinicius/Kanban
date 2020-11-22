@@ -1,6 +1,6 @@
 <div align="center">
  
- ![Kanban](images/header-kanban.webp)
+ ![Kanban](images/header-readme.jpg)
 
  ### Repositório criado para documentação de estudos em Kanban
   
