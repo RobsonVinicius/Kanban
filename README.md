@@ -8,10 +8,11 @@
 
 <br>
 
-### 📰 Posts
+### 📰 Posts | Artigos
 
 + [O que é kanban e como ele pode ajudar na organização do trabalho](https://blog.runrun.it/o-que-e-kanban/)
 + [Método Kanban: um guia (quase) completo](https://targetteal.com/pt/blog/metodo-kanban/)
++ [kanban - Como a metodologia Kanban é aplicada ao desenvolvimento de software - Atlassian Agile Coach](https://www.atlassian.com/br/agile)
 
 <br>
 
@@ -24,3 +25,10 @@
 ### 📚 Livros
  
 + Kanban: Mudanca Evolucionaria de Sucesso Para Seu Negocio de Tecnologia - Donald G. Reinertsen 
+
+<br>
+
+### 🛠️ Ferramentas
+
++ [Trello](https://trello.com/pt-BR)
++ [Jira Software](https://trello.com/pt-BR)
