@@ -10,7 +10,7 @@
 
 ### 📰 Posts | Artigos
 
-+ [O que é kanban e como ele pode ajudar na organização do trabalho | **Run Run**](https://blog.runrun.it/o-que-e-kanban/)
++ [O que é kanban e como ele pode ajudar na organização do trabalho | **Runrun.it**](https://blog.runrun.it/o-que-e-kanban/)
 + [Método Kanban: um guia (quase) completo | **Target Teal**](https://targetteal.com/pt/blog/metodo-kanban/)
 + [kanban - Como a metodologia Kanban é aplicada ao desenvolvimento de software | **Atlassian Agile Coach**](https://www.atlassian.com/br/agile)
 + [Método Kanban: Guia detalhado e 5 modelos prontos para usar | **Blog Trello**](https://blog.trello.com/br/metodo-kanban)
