@@ -16,6 +16,7 @@
 + [Método Kanban: Guia detalhado e 5 modelos prontos para usar | **Blog Trello**](https://blog.trello.com/br/metodo-kanban)
 + [Kanban - O que é e TUDO sobre como gerenciar fluxos de trabalho | **Artia**](https://artia.com/kanban/)
 + [Confira 7 dicas para dominar o Kanban na agência! | **Rock Content - Clips**](https://rockcontent.com/br/blog/dicas-para-kanban/)
++ [Kanban: O que é, como funciona e como implantar esse método | **Egestor**](https://blog.egestor.com.br/kanban/)
 
 <br>
 
