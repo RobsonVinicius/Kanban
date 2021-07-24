@@ -35,4 +35,4 @@
 ### 🛠️ Ferramentas
 
 + [Trello](https://trello.com/pt-BR)
-+ [Jira Software](https://trello.com/pt-BR)
++ [Jira Software](https://www.atlassian.com/software/jira)
