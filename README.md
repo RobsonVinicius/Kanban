@@ -22,7 +22,7 @@
 
 ### 🎙️ Podcasts
 
-+ [Kanban e o fluxo de trabalho | **Hipsters #74**](https://cursos.alura.com.br/hipsterstech-kanban-e-o-fluxo-de-trabalho-hipsters-74-a512)
++ [Kanban e o fluxo de trabalho | **Hipsters #74**](https://hipsters.tech/kanban-e-o-fluxo-de-trabalho-hipsters-74/)
 
 <br>
 
