@@ -17,6 +17,7 @@
 + [Kanban - O que é e TUDO sobre como gerenciar fluxos de trabalho | **Artia**](https://artia.com/kanban/)
 + [Confira 7 dicas para dominar o Kanban na agência! | **Rock Content - Clips**](https://rockcontent.com/br/blog/dicas-para-kanban/)
 + [Kanban: O que é, como funciona e como implantar esse método | **Egestor**](https://blog.egestor.com.br/kanban/)
++ [Kanban: o que é e quais seus benefícios | **Omie**](https://blog.omie.com.br/blog/kanban-o-que-e-e-quais-seus-baneficios)
 
 <br>
 
