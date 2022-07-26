@@ -24,6 +24,7 @@
 ### 🎙️ Podcasts
 
 + [Kanban e o fluxo de trabalho | **Hipsters #74**](https://hipsters.tech/kanban-e-o-fluxo-de-trabalho-hipsters-74/)
++ [Nossos erros com Kanban | Love the Problem / K21](https://www.youtube.com/watch?v=Aad_LK2MmCE)
 
 <br>
 
