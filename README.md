@@ -31,7 +31,8 @@
 
 ### 📚 Livros
  
-+ Kanban: Mudanca Evolucionaria de Sucesso Para Seu Negocio de Tecnologia - **Donald G. Reinertsen**
++ [Kanban: Mudanca Evolucionaria de Sucesso Para Seu Negocio de Tecnologia - **David J. Anderson, Donald G. Reinertsen**](https://amzn.to/3UTKDty)
+
 
 <br>
 
