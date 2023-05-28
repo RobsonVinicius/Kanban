@@ -42,3 +42,4 @@
 + [Jira Software](https://www.atlassian.com/software/jira)
 + [Asana](https://asana.com/pt/uses/kanban-boards)
 + [Kanbanize](https://kanbanize.com/pt)
++ [ClickUp](https://clickup.com/features/kanban-board)
