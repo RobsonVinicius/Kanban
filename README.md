@@ -30,6 +30,10 @@
 <br>
 
 ### 📚 Livros
+
+| Capa | Livro | Autor | Livro Físico | Versão Kindle | 
+| --- | --- | --- | --- | --- |
+| <img src="https://m.media-amazon.com/images/I/71z10tEolTL._SL1360_.jpg" min-width="50px" width="50px" align="center" alt="image"> | Kanban: Mudanca Evolucionaria de Sucesso Para Seu Negocio de Tecnologia | David J. Anderson | [Veja Mais](https://amzn.to/4bmzbPH) | [Veja Mais](https://amzn.to/3Xkaj5F)|
  
 + [Kanban: Mudanca Evolucionaria de Sucesso Para Seu Negocio de Tecnologia - **David J. Anderson, Donald G. Reinertsen**](https://amzn.to/3E30XSZ) | [Versão Kindle](https://amzn.to/3CkBWBg)
 
