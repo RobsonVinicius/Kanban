@@ -38,6 +38,7 @@
 | <img src="https://m.media-amazon.com/images/I/61xlJH7v5xL._SL1500_.jpg" min-width="50px" width="50px" align="center" alt="image"> | Kanban in Action (English Edition) | Sunden, Hammarberg | [Veja Mais](https://amzn.to/4kmbYRW) | [Veja Mais](https://amzn.to/3DajBdB) |
 | <img src="https://m.media-amazon.com/images/I/71VaFTspvLL._SL1360_.jpg" min-width="50px" width="50px" align="center" alt="image"> | Kanban from the Inside | Burrows | [Veja Mais](https://amzn.to/43irgRu) | [Veja Mais](https://amzn.to/43hC0zA) |  
 | <img src="https://m.media-amazon.com/images/I/51pX2nB41QL.jpg" min-width="50px" width="50px" align="center" alt="image"> | Personal Kanban: Mapping Work - Navigating Life | Barry, Benson | [Veja Mais](https://amzn.to/4brR5kq) | [Veja Mais](https://amzn.to/3DajSgD) |  
+| <img src="https://m.media-amazon.com/images/I/61NgLpeAMvL._SL1500_.jpg" min-width="50px" width="50px" align="center" alt="image"> | Agile Project Management with Kanban | Brechner | [Veja Mais](https://amzn.to/41DnMIa) | [Veja Mais](https://amzn.to/3DhW9uT) |  
 
 
 <br>
