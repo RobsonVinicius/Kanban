@@ -36,7 +36,9 @@
 | <img src="https://m.media-amazon.com/images/I/71z10tEolTL._SL1360_.jpg" min-width="50px" width="50px" align="center" alt="image"> | Kanban: Mudanca Evolucionaria de Sucesso Para Seu Negocio de Tecnologia | David J. Anderson | [Veja Mais](https://amzn.to/4bmzbPH) | [Veja Mais](https://amzn.to/3Xkaj5F)|
 | <img src="https://m.media-amazon.com/images/I/61-0hnV-KnL._SL1360_.jpg" min-width="50px" width="50px" align="center" alt="image"> | Descobrindo KANBAN: O Caminho Evolucionário para Agilidade Organizacional | David J. Anderson | [Veja Mais](https://amzn.to/4gW8Ol7) |
 | <img src="https://m.media-amazon.com/images/I/61xlJH7v5xL._SL1500_.jpg" min-width="50px" width="50px" align="center" alt="image"> | Kanban in Action (English Edition) | Sunden, Hammarberg | [Veja Mais](https://amzn.to/4kmbYRW) | [Veja Mais](https://amzn.to/3DajBdB) |
-| <img src="https://m.media-amazon.com/images/I/71VaFTspvLL._SL1360_.jpg" min-width="50px" width="50px" align="center" alt="image"> | Kanban from the Inside | Burrows | [Veja Mais](https://amzn.to/43irgRu) | [Veja Mais](https://amzn.to/43hC0zA{target="_blank"}) |  
+| <img src="https://m.media-amazon.com/images/I/71VaFTspvLL._SL1360_.jpg" min-width="50px" width="50px" align="center" alt="image"> | Kanban from the Inside | Burrows | [Veja Mais](https://amzn.to/43irgRu) | [Veja Mais](https://amzn.to/43hC0zA) |  
+| <img src="https://m.media-amazon.com/images/I/51pX2nB41QL.jpg" min-width="50px" width="50px" align="center" alt="image"> | Personal Kanban: Mapping Work - Navigating Life | Barry, Benson | [Veja Mais](https://amzn.to/4brR5kq) | [Veja Mais](https://amzn.to/3DajSgD) |  
+
 
 <br>
 
